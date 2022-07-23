@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LogCondContrFluxo.Main">
+  <component name="RunManager" selected="Application.D_LogCondContrFluxo.ExExemplo.Main">
     <configuration name="C_EntendendoMetodosJava.Ex2Quadrilatero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C_EntendendoMetodosJava.Ex2Quadrilatero.Main" />
       <module name="Mod2ComecandoPrgJava" />
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2Quadrilatero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2Quadrilatero.Main" />
+    <configuration name="D_LogCondContrFluxo.ExExemplo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_LogCondContrFluxo.ExExemplo.Main" />
       <module name="Mod2ComecandoPrgJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex2Quadrilatero.*" />
+          <option name="PATTERN" value="D_LogCondContrFluxo.ExExemplo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogCondContrFluxo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogCondContrFluxo.Main" />
+    <configuration name="Ex2Quadrilatero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2Quadrilatero.Main" />
       <module name="Mod2ComecandoPrgJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogCondContrFluxo.*" />
+          <option name="PATTERN" value="Ex2Quadrilatero.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LogCondContrFluxo.Main" />
+        <item itemvalue="Application.D_LogCondContrFluxo.ExExemplo.Main" />
         <item itemvalue="Application.C_EntendendoMetodosJava.Ex3QuadrilaterosComRetorno.Main" />
         <item itemvalue="Application.C_EntendendoMetodosJava.Ex2Quadrilatero.Main" />
         <item itemvalue="Application.Ex2Quadrilatero.Main" />
