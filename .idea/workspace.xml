@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5876bb6b-ffce-4975-a57b-ed9fd89518ca" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/src/LogCondContrFluxo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D_LogCondContrFluxo/ExExemplo/ExOperRelacionais/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.D_LogCondContrFluxo.ExExemplo.Main">
+  <component name="RunManager" selected="Application.D_LogCondContrFluxo.ExExemplo.ExOperRelacionais.Main">
     <configuration name="C_EntendendoMetodosJava.Ex2Quadrilatero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C_EntendendoMetodosJava.Ex2Quadrilatero.Main" />
       <module name="Mod2ComecandoPrgJava" />
@@ -56,6 +56,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="C_EntendendoMetodosJava.Ex3QuadrilaterosComRetorno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D_LogCondContrFluxo.ExExemplo.ExOperRelacionais.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_LogCondContrFluxo.ExExemplo.ExOperRelacionais.Main" />
+      <module name="Mod2ComecandoPrgJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D_LogCondContrFluxo.ExExemplo.ExOperRelacionais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_EntendendoMetodosJava.Ex1CalcMsgEmprestimo.Main" />
-      <module name="Mod2ComecandoPrgJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C_EntendendoMetodosJava.Ex1CalcMsgEmprestimo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.D_LogCondContrFluxo.ExExemplo.ExOperRelacionais.Main" />
         <item itemvalue="Application.D_LogCondContrFluxo.ExExemplo.Main" />
         <item itemvalue="Application.C_EntendendoMetodosJava.Ex3QuadrilaterosComRetorno.Main" />
         <item itemvalue="Application.C_EntendendoMetodosJava.Ex2Quadrilatero.Main" />
         <item itemvalue="Application.Ex2Quadrilatero.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,35 @@
       <option name="project" value="LOCAL" />
       <updated>1658615948113</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1658617801588</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658617801588</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1658617912361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658617912361</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1658617935284</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658617935284</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1658618030380</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658618030380</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +217,8 @@
     <MESSAGE value="Sobrecargas" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/C_EntendendoMetodosJava/Ex2Quadrilatero/Main.java&#10;#&#9;src/C_EntendendoMetodosJava/Ex2Quadrilatero/Quadrilatero.java" />
     <MESSAGE value="Retornos" />
+    <MESSAGE value="Operadores Relacionais" />
+    <MESSAGE value="Exercicio Exemplo - Operadores Relacionais" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
