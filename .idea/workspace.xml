@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5876bb6b-ffce-4975-a57b-ed9fd89518ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mod2ComecandoPrgJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_EntendendoMetodosJava/Ex1CalcMsgEmprestimo/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_EntendendoMetodosJava/Ex1CalcMsgEmprestimo/Mensagem.java" afterDir="false" />
+    <list default="true" id="5876bb6b-ffce-4975-a57b-ed9fd89518ca" name="Changes" comment="First commit - Métodos">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2CMZ67npU2thlYU5XNv7yNamjfK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,10 +32,37 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ex2Quadrilatero.Main">
+    <configuration name="C_EntendendoMetodosJava.Ex2Quadrilatero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_EntendendoMetodosJava.Ex2Quadrilatero.Main" />
+      <module name="Mod2ComecandoPrgJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C_EntendendoMetodosJava.Ex2Quadrilatero.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2Quadrilatero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2Quadrilatero.Main" />
+      <module name="Mod2ComecandoPrgJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex2Quadrilatero.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C_EntendendoMetodosJava.Ex1CalcMsgEmprestimo.Main" />
       <module name="Mod2ComecandoPrgJava" />
@@ -51,6 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex2Quadrilatero.Main" />
+        <item itemvalue="Application.C_EntendendoMetodosJava.Ex2Quadrilatero.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -64,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658614237504</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit - Métodos">
+      <created>1658614744583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658614744583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit - Métodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit - Métodos" />
   </component>
 </project>
