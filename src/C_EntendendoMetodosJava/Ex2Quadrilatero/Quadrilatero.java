@@ -1,4 +1,4 @@
-package Ex2Quadrilatero;
+package C_EntendendoMetodosJava.Ex2Quadrilatero;
 
 public class Quadrilatero {
 
@@ -19,4 +19,5 @@ public class Quadrilatero {
     }
 
 }
+
 

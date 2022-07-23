@@ -1,4 +1,4 @@
-package Ex2Quadrilatero;
+package C_EntendendoMetodosJava.Ex2Quadrilatero;
 
 public class Main {
 
@@ -11,3 +11,4 @@ public class Main {
         Quadrilatero.area(5,5);
     }
 }
+
