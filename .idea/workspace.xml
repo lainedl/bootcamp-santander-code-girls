@@ -30,20 +30,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.C_EntendendoMetodosJava.Ex2Quadrilatero.Main">
+}</component>
+  <component name="RunManager" selected="Application.C_EntendendoMetodosJava.Ex3QuadrilaterosComRetorno.Main">
     <configuration name="C_EntendendoMetodosJava.Ex2Quadrilatero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C_EntendendoMetodosJava.Ex2Quadrilatero.Main" />
       <module name="Mod2ComecandoPrgJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="C_EntendendoMetodosJava.Ex2Quadrilatero.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C_EntendendoMetodosJava.Ex3QuadrilaterosComRetorno.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_EntendendoMetodosJava.Ex3QuadrilaterosComRetorno.Main" />
+      <module name="Mod2ComecandoPrgJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C_EntendendoMetodosJava.Ex3QuadrilaterosComRetorno.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C_EntendendoMetodosJava.Ex3QuadrilaterosComRetorno.Main" />
         <item itemvalue="Application.C_EntendendoMetodosJava.Ex2Quadrilatero.Main" />
         <item itemvalue="Application.Ex2Quadrilatero.Main" />
         <item itemvalue="Application.Main" />
