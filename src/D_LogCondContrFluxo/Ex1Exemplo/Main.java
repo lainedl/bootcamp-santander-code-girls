@@ -1,4 +1,4 @@
-package D_LogCondContrFluxo.ExExemplo;
+package D_LogCondContrFluxo.Ex1Exemplo;
 
 public class Main {
 

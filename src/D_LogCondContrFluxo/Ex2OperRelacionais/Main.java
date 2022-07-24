@@ -1,4 +1,4 @@
-package D_LogCondContrFluxo.ExExemplo.ExOperRelacionais;
+package D_LogCondContrFluxo.Ex1Exemplo.ExOperRelacionais;
 
 public class Main {
 
