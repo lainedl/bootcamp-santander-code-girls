@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5876bb6b-ffce-4975-a57b-ed9fd89518ca" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/src/D_LogCondContrFluxo/ExExemplo/ExOperRelacionais/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5876bb6b-ffce-4975-a57b-ed9fd89518ca" name="Changes" comment="Organizando a estrutura" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658618030380</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Operadores Lógocos">
+      <created>1658675215429</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658675215429</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Organizando a estrutura">
+      <created>1658675365190</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658675365193</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +231,8 @@
     <MESSAGE value="Operadores Relacionais" />
     <MESSAGE value="Exercicio Exemplo - Operadores Relacionais" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Operadores Lógocos" />
+    <MESSAGE value="Organizando a estrutura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizando a estrutura" />
   </component>
 </project>
